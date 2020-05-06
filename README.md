@@ -1,6 +1,9 @@
 # Celestial Coordinate System Converter
 ![header](https://scontent.fmnl17-2.fna.fbcdn.net/v/t1.15752-9/95736226_259143208571065_3115483286978166784_n.jpg?_nc_cat=111&_nc_sid=b96e70&_nc_ohc=YOxydQh7PdQAX9WQrmm&_nc_ht=scontent.fmnl17-2.fna&oh=1481d2e5dcc4683e9a49426be0dd45be&oe=5ED9FA14)
 
+## Execution
+To execute this program, download the `coordinatesconverter.py` file then run it using your Python3 IDE.
+
 ## Contact
 markydotes@gmail.com
 
