@@ -5,7 +5,10 @@
 To execute this program, download the `coordinatesconverter.py` file then run it using your Python3 IDE.
 
 ## Contact
-markydotes@gmail.com
+**Mark Anthony Lopez** markydotes@gmail.com
+Rika Mei Reventar
+Ilysa Dea Alejo
+Lufred Adag
 
 ## Background
 This repository is designed to create an automated celestial coordinate system converter using `Python3`. Because the process of calculations by hand is tedious, we tend to design a converter programatically.
